@@ -1,0 +1,23 @@
+body{
+
+	
+	 background: ;
+}
+
+
+
+.col-md-12{
+	background: orange;
+	height: 70px;
+}
+
+.col-md-3{
+	background: blue;
+	height: 800px;
+}
+
+.col-md-9{
+	background: green;
+	height: 700px;
+}
+
